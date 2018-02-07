@@ -1,0 +1,21 @@
+
+html, body, #root {
+  height: 100%;
+}
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255,255,255,.2);  
+  margin: 16px 24px 16px 0;
+  float: left;
+  color:#fff;
+  text-align: center;
+  line-height: 31px;
+}
+.rowSpace{
+	margin-bottom: 12px;
+}
+#root{
+
+  background: #F0F2F5;  
+}
